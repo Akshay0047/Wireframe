@@ -1,0 +1,20 @@
+1. Login/Sign Up Screen : User sign ins or logins
+
+2. Total Expense : Inputing total expense
+
+3. Ask for Saving method.. 
+	
+   options : 
+   -50,20,30
+	The rule states that you should spend up to 50% of your after-tax income on needs and obligations
+        that you must-have or must-do. The remaining half should be split up between 20% savings and debt 
+        repayment and 30% to everything else that you might want.
+
+ -   70,20,10
+	Both 70-20-10 and 50-30-20 are elementary percentage breakdowns for spending, saving, and sharing money.
+        Using the 70-20-10 rule, every month a person would spend only 70% of the money they earn, save 20%, and 
+        then they would donate 10%.
+
+
+ -   Make Custom rule
+	User should input the percentage 
